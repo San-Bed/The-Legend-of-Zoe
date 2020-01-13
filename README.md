@@ -4,4 +4,4 @@ A little command-line videogame built for my IFT 1025 - Programming II course. T
 # What I Learned
 * Developed a command-line user interface.
 * Coded a path-finding algorithm for enemy movement.
-* Applied the following concepts: OOP, algorithms, class hierarchy, software development 
+* Applied the following concepts: OOP, algorithms, class hierarchy, software development. 
