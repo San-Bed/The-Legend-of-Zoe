@@ -1,5 +1,5 @@
 # The-Legend-of-Zoe
-A videogame built for my IFT 1025 - Programming II course. You play Zoe, Zelda's cousin, who must go in search of the Hexaforce's pieces to restore order to the world. Zoe advances through the 6 levels of a dungeon, each level hides one of the pieces of Hexaforce. 
+A videogame built for my IFT 1025 - Programming II course. You play Zoe, Zelda's cousin, who must go in search of the Hexaforce's pieces to restore order to the world. Zoe advances through the 6 levels of a dungeon, each level hides one of the pieces of Hexaforce. Made in collaboration with [Justin Michaud](https://github.com/justinmichaud5)
 
 # What I Learned
 * How to develop and display a command-line user interface.
